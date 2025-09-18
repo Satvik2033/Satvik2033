@@ -12,7 +12,7 @@
 - 🔭 Currently working as an **Associate Software Engineer** at **GlobalLogic**, on-site at **Google**
 - 💼 Previously worked as **Software Engineer Intern** at **Knoldus Inc**
 - 🎓 Master's in Computer Applications  
-- 🏆 2× **Alpha Player Award** winner at GlobalLogic (May 2024, Jan 2025)
+- 🏆 3× **Alpha Player Award** winner at GlobalLogic (May 2024, Jan 2025 & Jul 2025)
 
 ---
 
