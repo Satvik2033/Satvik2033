@@ -1,55 +1,31 @@
+# Hi, I'm Satvik Gupta
 
-<h1 align="center">Hi there, I'm Satvik Gupta 👋</h1>
+Software Engineer building distributed backend and AI-driven search systems for a Fortune 10 global search client. Technical POC for Knowledge Panel, Organized Search Results, AI Overview and NL2SQL.
 
-<p align="center">
-  🚀 Software Engineer | ⚙️ Quick to Learn New Tech | 🤝 Team Player | 🔄 Quick Adapter | 🎯 Goal-Driven | 📚 Lifelong Learner
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently working as an **Associate Software Engineer** at **GlobalLogic**, on-site at **Google**
-- 💼 Previously worked as **Software Engineer Intern** at **Knoldus Inc**
-- 🎓 Master's in Computer Applications  
-- 🏆 3× **Alpha Player Award** winner at GlobalLogic (May 2024, Jan 2025 & Jul 2025)
-
----
-
-### 🔧 Tech Stack
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Scala](https://img.shields.io/badge/-Scala-red?style=flat&logo=scala)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+## What I work on
+- Backend services and data pipelines in C++, Scala and Python
+- NL2SQL and RAG-based evaluation tooling
+- Knowledge-graph and search-result features
 
-### 🧠 Projects
+## Recognition
+- 2025-26 Annual Award, GlobalLogic
+- 5x monthly delivery awards (3x Alpha Player, 2x Work-O-Joylic)
+- AWS Certified Solutions Architect Associate and Developer Associate; Lightbend Scala Professional
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎮 [Sudoku-Java](https://github.com/Satvik2033/Sudoku-Java) | A fully playable desktop Sudoku game with a Swing-based UI | Java |
-| 👔 [Employee Management System](https://github.com/Satvik2033/Employee-Management-System) | A CLI-based Scala+JDBC app for employee CRUD operations | Scala, MySQL |
+## Projects
+- [Employee-Management-System](https://github.com/Satvik2033/Employee-Management-System): CLI app for employee CRUD using Scala, JDBC and MySQL
+- [Sudoku-Java](https://github.com/Satvik2033/Sudoku-Java): desktop Sudoku game with a Swing UI
 
----
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Satvik2033&theme=github_dark&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik2033&theme=github_dark&layout=compact)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satvik2033&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik2033&layout=compact&theme=github_dark" height="160" />
-</p>
-
----
-
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satvik2033/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Satvik2033)
-
----
-
-_Thanks for visiting my GitHub profile! Feel free to check out my repositories and leave a ⭐ if you like something._
+## Connect
+[LinkedIn](https://linkedin.com/in/satvik2033) | Open to backend, search and data engineering roles in Delhi NCR or remote
